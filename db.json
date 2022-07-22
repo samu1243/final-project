@@ -1,0 +1,67 @@
+{
+  "trade": [
+    {
+      "id": 1,
+      "server_from": "Illidan",
+      "server_to": "Tichondrius",
+      "gold_trade": 200000,
+      "user": { "id": 1, "username": "Gamertag" }
+    },
+    {
+      "id": 2,
+      "server_from": "Zul'jin",
+      "server_to": "Tichondrius",
+      "gold_trade": 100000,
+      "user": { "id": 2, "username": "Random" }
+    },
+    {
+      "id": 3,
+      "server_from": "Tichondrius",
+      "server_to": "Illidan",
+      "gold_trade": 150000,
+      "user": { "id": 3, "username": "Superrandom" }
+    },
+    {
+      "id": 4,
+      "server_from": "Illidan",
+      "server_to": "Zul'jin",
+      "gold_trade": 400000,
+      "user": { "id": 4, "username": "Guyinjson" }
+    },
+    {
+      "id": 5,
+      "server_from": "Mal'Ganis",
+      "server_to": "Illidan",
+      "gold_trade": 80000,
+      "user": { "id": 4, "username": "Guyinjson" }
+    },
+    {
+      "id": 6,
+      "server_from": "Illidan",
+      "server_to": "Tichondrius",
+      "gold_trade": 50000,
+      "user": { "id": 6, "username": "Anotherdude" }
+    },
+    {
+      "id": 7,
+      "server_from": "Mal'Ganis",
+      "server_to": "Illidan",
+      "gold_trade": 1500000,
+      "user": { "id": 7, "username": "Simplename" }
+    },
+    {
+      "id": 8,
+      "server_from": "Tichondrius",
+      "server_to": "Zul'jin",
+      "gold_trade": 4000000,
+      "user": { "id": 8, "username": "Thebest" }
+    },
+    {
+      "id": 9,
+      "server_from": "Illidan",
+      "server_to": "Mal'Ganis",
+      "gold_trade": 100000,
+      "user": { "id": 8, "username": "Decentatit" }
+    }
+  ]
+}
